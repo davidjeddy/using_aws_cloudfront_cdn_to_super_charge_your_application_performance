@@ -1,0 +1,8 @@
+*.tfstate
+*.zip
+/.terraform
+/**/*.tfstate.*
+/aws
+/gatling
+/results/*
+/web_assets
